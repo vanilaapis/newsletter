@@ -1,0 +1,10 @@
+<img width="1785" height="1170" alt="valid-chart" src="https://github.com/user-attachments/assets/e70d1893-3fd0-4cdc-bdb1-266ec17df174" />
+<img width="3363" height="2571" alt="valdi-github-page" src="https://github.com/user-attachments/assets/c2a7e020-6636-4259-b0ff-a3ec7ea78add" />
+<img width="3000" height="2000" alt="snapchat-logo" src="https://github.com/user-attachments/assets/0029f6ea-cd59-4ce2-9962-604ce1697368" />
+<img width="2007" height="2385" alt="rn-stars-2025" src="https://github.com/user-attachments/assets/b53f6d37-6ca3-43d1-9a22-e8d8a98041cc" />
+<img width="3699" height="2124" alt="rn-stars-2025-excalidrawz" src="https://github.com/user-attachments/assets/1e05c20b-92fe-450b-ad98-ab5e3f7e4d9c" />
+<img width="1797" height="1566" alt="react-native-chart" src="https://github.com/user-attachments/assets/96210987-7478-4d49-8b6f-df107b1f8c52" />
+<img width="81" height="84" alt="lynx-logo" src="https://github.com/user-attachments/assets/7e534003-9ae1-422d-9c41-cb60377e1497" />
+<img width="81" height="84" alt="lynx-logo-white" src="https://github.com/user-attachments/assets/50c719de-8b2c-4e20-a2a4-79a778777931" />
+<img width="1797" height="1203" alt="lynx-chart" src="https://github.com/user-attachments/assets/00e3405d-6b5b-4f67-925c-635ecfa3d495" />
+<img width="1803" height="1557" alt="expo-chart" src="https://github.com/user-attachments/assets/4136bd76-36d6-4643-aadc-502b13ef4970" />
